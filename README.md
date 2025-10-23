@@ -4,7 +4,7 @@ Mais de 320 vídeos para praticar a detecção de Microexpressões Faciais (Ekma
 <img width="875" height="570" alt="image" src="https://github.com/user-attachments/assets/d6fed22a-92aa-4975-a3c3-46f7dbe0f7ba" />
 
 ## Ferramenta totalmente gratuita com mais de 320 vídeos
-Eu sou um amante da psicologia, linguagem corporal e persuasão. Então, em 2022 (se não me engano), decidi criar uma ferramenta offline para eu praticar sempre que puder. O resultado de um deles foi essa ferramenta.
+Eu sou um amante da psicologia, linguagem corporal e persuasão (4 anos de prática e 30 livros lidos). Então, em 2022 (se não me engano), decidi criar uma ferramenta offline para eu praticar sempre que puder. O resultado de um deles foi essa ferramenta.
 
 ## Recursos:
 1. Mais de 320 vídeos, com as 7 emoções universais: Desprezo, Raiva, Felicidade, Tristeza, Nojo, Surpresa, Medo e Neutro
