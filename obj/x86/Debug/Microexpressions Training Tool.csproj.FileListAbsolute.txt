@@ -1,0 +1,25 @@
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Microexpressions Training Tool.exe.config
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Microexpressions Training Tool.exe
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Microexpressions Training Tool.pdb
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Guna.UI2.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Siticone.UI.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\System.Buffers.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\System.Memory.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Microsoft.DirectX.dll
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\System.Buffers.xml
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\System.Memory.xml
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\System.Numerics.Vectors.xml
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+F:\Projetos\The Truth\Microexpressions Training Tool\bin\x86\Debug\Microsoft.DirectX.xml
+F:\Projetos\The Truth\Microexpressions Training Tool\obj\x86\Debug\Microexpressions_Training_Tool.Form1.resources
+F:\Projetos\The Truth\Microexpressions Training Tool\obj\x86\Debug\Microexpressions_Training_Tool.Properties.Resources.resources
+F:\Projetos\The Truth\Microexpressions Training Tool\obj\x86\Debug\Microexpressions Training Tool.csproj.GenerateResource.cache
+F:\Projetos\The Truth\Microexpressions Training Tool\obj\x86\Debug\Microexpressions Training Tool.csproj.CoreCompileInputs.cache
+F:\Projetos\The Truth\Microexpressions Training Tool\obj\x86\Debug\Microexpressions Training Tool.csproj.CopyComplete
+F:\Projetos\The Truth\Microexpressions Training Tool\obj\x86\Debug\Microexpressions Training Tool.exe
+F:\Projetos\The Truth\Microexpressions Training Tool\obj\x86\Debug\Microexpressions Training Tool.pdb

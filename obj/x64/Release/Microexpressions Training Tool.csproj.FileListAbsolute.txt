@@ -1,0 +1,18 @@
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\bin\x64\Release\Microexpressions Training Tool.exe.config
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\bin\x64\Release\Microexpressions Training Tool.exe
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\bin\x64\Release\Microexpressions Training Tool.pdb
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\bin\x64\Release\Guna.UI2.dll
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\bin\x64\Release\Interop.WMPLib.dll
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\bin\x64\Release\AxInterop.WMPLib.dll
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions Training Tool.csproj.AssemblyReference.cache
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Interop.WMPLib.dll
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\AxInterop.WMPLib.dll
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions Training Tool.csproj.ResolveComReference.cache
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions_Training_Tool.Form1.resources
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions_Training_Tool.Properties.Resources.resources
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions Training Tool.csproj.GenerateResource.cache
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions Training Tool.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexp.D98AF2E5.Up2Date
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions Training Tool.exe
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions Training Tool.pdb
+C:\Users\dimas\Downloads\The Truth (detecção de microexpressão)\The Truth\Microexpressions Training Tool\obj\x64\Release\Microexpressions Training Tool.exe.config

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16207237-62F9-4ED8-8AB5-2031EA631A71}|Microexpressions Training Tool.csproj|c:\\users\\dimas\\downloads\\the truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\the truth\\microexpressions training tool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16207237-62F9-4ED8-8AB5-2031EA631A71}|Microexpressions Training Tool.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16207237-62F9-4ED8-8AB5-2031EA631A71}|Microexpressions Training Tool.csproj|C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16207237-62F9-4ED8-8AB5-2031EA631A71}|Microexpressions Training Tool.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16207237-62F9-4ED8-8AB5-2031EA631A71}|Microexpressions Training Tool.csproj|C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16207237-62F9-4ED8-8AB5-2031EA631A71}|Microexpressions Training Tool.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:33:02.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAkwHUBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:33:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dimas\\Downloads\\The Truth (detec\u00E7\u00E3o de microexpress\u00E3o)\\The Truth\\Microexpressions Training Tool\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:33:03.289Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
